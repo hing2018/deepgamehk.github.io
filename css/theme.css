@@ -2302,6 +2302,7 @@ section.slider .flickity-page-dots {
 }
 a[data-notification-link] {
   text-decoration: none;
+  margin-right: 13px;
 }
 a[data-notification-link]:hover {
   text-decoration: none;
@@ -3299,6 +3300,7 @@ form[action*='list-manage.com'] .small-meta {
 @media all and (max-width: 767px) {
   .bar__module {
     margin-bottom: 0.92857143em;
+    margin-left: 13px;
   }
   .bar__module + .bar__module {
     margin-top: 1.85714286em;
