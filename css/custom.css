@@ -48,6 +48,7 @@
 
   .titleT{
     color: rgb(255, 255, 255);
+    padding-top: 5px;
   }
 
 
@@ -57,9 +58,10 @@
 
   .WTS_btn{
     position: fixed;
-    border-radius:5%;
+    border-radius:2%;  
+    text-align: center !important;
     left: 30px;
-    width: 150px;
+    width: 153px;
     background: #23cf00e7 !important; 
     border-color: #ffffff !important;
 
@@ -67,4 +69,10 @@
 
   .WTS_btn_text{
     left: 1px;
+  }
+
+
+  .menuT{
+    padding-top: 100px;
+
   }
