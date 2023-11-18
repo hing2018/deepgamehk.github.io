@@ -96,6 +96,8 @@
 
 .jstext_row{
   background-color:#1d201d;
+
+  
 }
 
 .text_w{
@@ -103,15 +105,88 @@
 }
 
 .seoText{
-  color: #a7a7a7 !important;
+  color: #ffffff !important;
   font-size: 12px;
   padding-bottom: 20px;
   
 }
 .seoTextW{
-  color: #ff0080 !important;
+  color: #ff0055 !important;
   font-size: 12px;
   font-weight: 700;
   padding-bottom: 20px;
   
+}
+
+.gameintro_text{
+  font-size: 12px;
+}
+
+.divider_1{
+  padding: 0px;
+  text-align: center;
+  background-color:#15ff00;
+  color: #000000;
+  font-weight: 400 !important;
+  
+  
+}
+.divider_2{
+  padding: 0px;
+  text-align: center;
+  background-color:#ff0055;
+  color:#ffffff;
+  font-weight: 900;
+  
+}
+.divider_3{
+  padding: 0px;
+  text-align: center;
+  background-color: #ffee00;
+  color: #000000;
+  font-weight: 900;
+  
+}
+
+.game1_border{
+  border-color: #15ff00 !important;
+  border-width: 2px;
+  border-style: inset;
+}
+.game2_border{
+  border-color: #ff0055 !important;
+  border-width: 2px;
+  border-style: inset;
+}
+.game3_border{
+  border-color: #fffb00 !important;
+  border-width: 2px;
+  border-style: inset;
+}
+
+
+.address_map{
+  color: #ffffff;
+  text-align: center;
+  font-weight: 900;
+
+}
+.address_map_L{
+  color: #ffffff;
+  text-align: center;
+  font-weight: 900;
+  font-size: 20px;
+
+}
+
+.map_marker{
+  text-align: center;
+  width: 100px;
+  margin: auto;
+  display: block;
+  color: #ff0055;
+}
+
+.map360{
+  text-align: center !important;
 }
