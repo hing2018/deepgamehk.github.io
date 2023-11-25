@@ -38,6 +38,11 @@
     border-color:rgb(255, 0, 128) !important;
   }
 
+  .btnG5{
+    background: rgb(0, 0, 0) !important;
+    border-color:rgb(255, 0, 0) !important;
+  }
+
   .banner_No{
    background: rgba(0, 0, 0, 0.9);
   }
@@ -147,6 +152,14 @@
   font-weight: 900;
   
 }
+.divider_4{
+  padding: 0px;
+  text-align: center;
+  background-color: #ff0800;
+  color: #ffffff;
+  font-weight: 900;
+  
+}
 
 .game1_border{
   border-color: #15ff00 !important;
@@ -163,13 +176,18 @@
   border-width: 2px;
   border-style: inset;
 }
+.game4_border{
+  border-color: #ff0000 !important;
+  border-width: 2px;
+  border-style: inset;
+}
 
 
 .address_map{
   color: #ffffff;
   text-align: center;
   font-weight: 900;
-   font-size: 15px;
+  font-size: 15px;
 
 }
 .address_map_L{
