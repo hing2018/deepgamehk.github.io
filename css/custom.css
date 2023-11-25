@@ -43,6 +43,12 @@
     border-color:rgb(255, 0, 0) !important;
   }
 
+  .btnG6{
+    background: rgb(0, 0, 0) !important;
+    border-color:rgb(0, 255, 200) !important;
+  }
+
+
   .banner_No{
    background: rgba(0, 0, 0, 0.9);
   }
@@ -160,6 +166,14 @@
   font-weight: 900;
   
 }
+.divider_6{
+  padding: 0px;
+  text-align: center;
+  background-color: #00ffbf;
+  color: #000000;
+  font-weight: 900;
+  
+}
 
 .game1_border{
   border-color: #15ff00 !important;
@@ -178,6 +192,11 @@
 }
 .game4_border{
   border-color: #ff0000 !important;
+  border-width: 2px;
+  border-style: inset;
+}
+.game6_border{
+  border-color: #00ffbf !important;
   border-width: 2px;
   border-style: inset;
 }
